@@ -1787,6 +1787,230 @@
   <channel id="amc.us">
     <display-name>USA AMC EAST</display-name>
   </channel>
+  <programme start="20260612100000 +0000" stop="20260612103000 +0000" channel="amc.us">
+    <title>Protect Your Family From Identity Theft</title>
+    <desc>Every 5 seconds there's a victim of identity theft; LifeLock helps alert you, restore your identity, and reimburse lost funds—leading the way in protecting families every day.</desc>
+  </programme>
+  <programme start="20260612103000 +0000" stop="20260612110000 +0000" channel="amc.us">
+    <title>USA 250 Gold Rarity</title>
+    <desc>Celebrate the 250th Anniversary of American Freedom with this Gold 1776-2026 American Gold Eagle graded PF70UCAM; encapsulated in a 1 of 250 40th Anniversary holder with the First Day of Issue designation, this is a once in a lifetime American coin!</desc>
+  </programme>
+  <programme start="20260612110000 +0000" stop="20260612113000 +0000" channel="amc.us">
+    <title>Car Repair Secrets!</title>
+    <desc>Save thousands on car repairs.</desc>
+  </programme>
+  <programme start="20260612113000 +0000" stop="20260612120000 +0000" channel="amc.us">
+    <title>Freedom to Leave the House! Inogen Portable Oxygen</title>
+    <desc>Regain independence and enjoy greater mobility with the compact design and long-lasting battery of portable oxygen.</desc>
+  </programme>
+  <programme start="20260612120000 +0000" stop="20260612123000 +0000" channel="amc.us">
+    <title>Overwhelmed with IRS Debt? Keys to Resolving Tax Debt</title>
+    <desc>See how one company is changing people's lives by helping them put their tax problems to rest.</desc>
+  </programme>
+  <programme start="20260612123000 +0000" stop="20260612130000 +0000" channel="amc.us">
+    <title>Natural Blood Pressure Management</title>
+    <desc>Cardiologist Dr. Ernst von Schwarz, M.D. shows how to manage your blood pressure naturally and help protect your heart for life with My Best Heart.</desc>
+  </programme>
+  <programme start="20260612130000 +0000" stop="20260612150000 +0000" channel="amc.us">
+    <title>The Great Outdoors</title>
+    <desc>A Chicago man (John Candy) and his family go camping with his obnoxious brother-in-law (Dan Aykroyd) and his family.</desc>
+  </programme>
+  <programme start="20260612150000 +0000" stop="20260612180000 +0000" channel="amc.us">
+    <title>Captain Phillips</title>
+    <desc>In 2009, Somali pirates storm a U.S. container ship and hold Capt. Richard Phillips and his crew captive.</desc>
+  </programme>
+  <programme start="20260612180000 +0000" stop="20260612210000 +0000" channel="amc.us">
+    <title>Independence Day</title>
+    <desc>When alien invaders lay waste to planet Earth, it's up to a select group of survivors to make a last-ditch stand. Fighting superior technology, mankind's best weapon is the will to survive.</desc>
+  </programme>
+  <programme start="20260612210000 +0000" stop="20260613000000 +0000" channel="amc.us">
+    <title>True Lies</title>
+    <desc>A Washington wife (Jamie Lee Curtis) discovers her computer-salesman husband (Arnold Schwarzenegger) is a spy out to stop nuclear terrorists.</desc>
+  </programme>
+  <programme start="20260613000000 +0000" stop="20260613030000 +0000" channel="amc.us">
+    <title>Knives Out</title>
+    <desc>The circumstances surrounding the death of crime novelist Harlan Thrombey are mysterious, but there's one thing that renowned Detective Benoit Blanc knows for sure -- everyone in the wildly dysfunctional Thrombey family is a suspect.</desc>
+  </programme>
+  <programme start="20260613030000 +0000" stop="20260613040600 +0000" channel="amc.us">
+    <title>The Beginning</title>
+    <desc>While facing declining sales at a book convention, bestselling mystery author Allie Chandler investigates the suspicious death of a close friend, only to clash with new police detective Jack Kerrigan and ambitious young podcaster Andi Walker.</desc>
+  </programme>
+  <programme start="20260613040600 +0000" stop="20260613064900 +0000" channel="amc.us">
+    <title>Just Go With It</title>
+    <desc>A plastic surgeon (Adam Sandler) enlists the aid of his assistant (Jennifer Aniston) and her children to help him win the heart of a beautiful woman.</desc>
+  </programme>
+  <programme start="20260613064900 +0000" stop="20260613090200 +0000" channel="amc.us">
+    <title>50 First Dates</title>
+    <desc>Henry Roth is a man afraid of commitment up until he meets the beautiful Lucy. They hit it off and Henry think he's finally found the girl of his dreams, until he discovers she has short-term memory loss and forgets him the next day.</desc>
+  </programme>
+  <programme start="20260613090200 +0000" stop="20260613113000 +0000" channel="amc.us">
+    <title>The Bounty Hunter</title>
+    <desc>Originally hired to track down his bail-jumping ex-wife (Jennifer Aniston), a bounty hunter (Gerard Butler) soon finds himself on the run for his life.</desc>
+  </programme>
+  <programme start="20260613113000 +0000" stop="20260613140000 +0000" channel="amc.us">
+    <title>Fool's Gold</title>
+    <desc>A treasure hunter (Matthew McConaughey) drags his estranged wife (Kate Hudson) and her boss (Donald Sutherland) on a quest to find 40 chests of lost Spanish gold.</desc>
+  </programme>
+  <programme start="20260613140000 +0000" stop="20260613161500 +0000" channel="amc.us">
+    <title>50 First Dates</title>
+    <desc>Henry Roth is a man afraid of commitment up until he meets the beautiful Lucy. They hit it off and Henry think he's finally found the girl of his dreams, until he discovers she has short-term memory loss and forgets him the next day.</desc>
+  </programme>
+  <programme start="20260613161500 +0000" stop="20260613190000 +0000" channel="amc.us">
+    <title>Just Go With It</title>
+    <desc>A plastic surgeon (Adam Sandler) enlists the aid of his assistant (Jennifer Aniston) and her children to help him win the heart of a beautiful woman.</desc>
+  </programme>
+  <programme start="20260613190000 +0000" stop="20260613220000 +0000" channel="amc.us">
+    <title>Knives Out</title>
+    <desc>The circumstances surrounding the death of crime novelist Harlan Thrombey are mysterious, but there's one thing that renowned Detective Benoit Blanc knows for sure -- everyone in the wildly dysfunctional Thrombey family is a suspect.</desc>
+  </programme>
+  <programme start="20260613220000 +0000" stop="20260614010000 +0000" channel="amc.us">
+    <title>National Treasure</title>
+    <desc>An adventurer (Nicolas Cage) must steal the Declaration of Independence and use its hidden map to find a legendary fortune.</desc>
+  </programme>
+  <programme start="20260614010000 +0000" stop="20260614040000 +0000" channel="amc.us">
+    <title>National Treasure: Book of Secrets</title>
+    <desc>A page from the diary of John Wilkes Booth implicates Ben Gates' great-great-grandfather as a major conspirator in the assassination of President Lincoln.</desc>
+  </programme>
+  <programme start="20260614040000 +0000" stop="20260614060000 +0000" channel="amc.us">
+    <title>Beetlejuice</title>
+    <desc>A couple returns from the dead to find that they are back in their beloved home, as ghosts. They are horrified when the house is sold to a pretentious couple.</desc>
+  </programme>
+  <programme start="20260614060000 +0000" stop="20260614080000 +0000" channel="amc.us">
+    <title>National Lampoon's Vacation</title>
+    <desc>Clark Griswold and his wife, Ellen, are driving from Illinois to a California amusement park. As Clark increasingly fixates on a beautiful woman driving a sports car, the Griswolds deal with car problems and the death of a family member.</desc>
+  </programme>
+  <programme start="20260614080000 +0000" stop="20260614100000 +0000" channel="amc.us">
+    <title>Vegas Vacation</title>
+    <desc>The Griswolds are off on a family outing to Las Vegas, where they each have their own misadventures. Young Rusty is enthusiastically playing dice, and his sister, Audrey, winds up in seedy nightclubs. Can the family reunite and stay out of trouble?</desc>
+  </programme>
+  <programme start="20260614100000 +0000" stop="20260614123000 +0000" channel="amc.us">
+    <title>Ghostbusters II</title>
+    <desc>Now the parapsychologists (Bill Murray, Dan Aykroyd) are trying to rid New York of stress-related pink slime.</desc>
+  </programme>
+  <programme start="20260614123000 +0000" stop="20260614150000 +0000" channel="amc.us">
+    <title>Ghostbusters</title>
+    <desc>Armed with their proton packs, four paranormal investigators battle mischievous ghouls, slimy specters, and full-torso, free-roaming apparitions across New York.</desc>
+  </programme>
+  <programme start="20260614150000 +0000" stop="20260614170000 +0000" channel="amc.us">
+    <title>Beetlejuice</title>
+    <desc>A couple returns from the dead to find that they are back in their beloved home, as ghosts. They are horrified when the house is sold to a pretentious couple.</desc>
+  </programme>
+  <programme start="20260614170000 +0000" stop="20260614190000 +0000" channel="amc.us">
+    <title>Jurassic Park III</title>
+    <desc>Dinosaur expert Dr. Alan Grant and a search party become trapped on an island of prehistoric predators. Can they escape alive with Dr. Alan Grant leading the party?</desc>
+  </programme>
+  <programme start="20260614190000 +0000" stop="20260614220000 +0000" channel="amc.us">
+    <title>Jurassic Park</title>
+    <desc>An entrepreneur invites scientists (Sam Neill, Laura Dern), a mathematics theorist (Jeff Goldblum) and others to his jungle theme-park featuring dinosaurs regenerated from DNA.</desc>
+  </programme>
+  <programme start="20260614220000 +0000" stop="20260615010000 +0000" channel="amc.us">
+    <title>The Lost World: Jurassic Park</title>
+    <desc>Four years after </desc>
+  </programme>
+  <programme start="20260615010000 +0000" stop="20260615020500 +0000" channel="amc.us">
+    <title>Toledo</title>
+    <desc>Lestat revisits his origins in Auvergne, explores Toledo with a recent reconnection, and deals with the fallout from Detroit, facing both band tensions and a disgruntled hotel owner.</desc>
+  </programme>
+  <programme start="20260615020500 +0000" stop="20260615031000 +0000" channel="amc.us">
+    <title>Toledo</title>
+    <desc>Lestat revisits his origins in Auvergne, explores Toledo with a recent reconnection, and deals with the fallout from Detroit, facing both band tensions and a disgruntled hotel owner.</desc>
+  </programme>
+  <programme start="20260615031000 +0000" stop="20260615061200 +0000" channel="amc.us">
+    <title>Cast Away</title>
+    <desc>A corporate troubleshooter survives a plane crash to spend five years seeking out an existence on a deserted island before returning to civilization with an altered view of his old life and values.</desc>
+  </programme>
+  <programme start="20260615061200 +0000" stop="20260615071700 +0000" channel="amc.us">
+    <title>Toledo</title>
+    <desc>Lestat revisits his origins in Auvergne, explores Toledo with a recent reconnection, and deals with the fallout from Detroit, facing both band tensions and a disgruntled hotel owner.</desc>
+  </programme>
+  <programme start="20260615071700 +0000" stop="20260615094700 +0000" channel="amc.us">
+    <title>The Last Stand</title>
+    <desc>A sheriff must take matters into his own hands when a notorious drug lord escapes from FBI custody and comes speeding toward a showdown in the lawman's quiet border town.</desc>
+  </programme>
+  <programme start="20260615094700 +0000" stop="20260615095500 +0000" channel="amc.us">
+    <title>Pardon My Scotch</title>
+    <desc>The Stooges are running the local drugstore, mixing up a potion that a desperate businessman decides to sell as scotch.</desc>
+  </programme>
+  <programme start="20260615095500 +0000" stop="20260615100000 +0000" channel="amc.us">
+    <title>Pop Goes the Easel</title>
+    <desc>The Stooges are down and out; with a cop chasing them, they flee into an artists' studio where they are mistaken for students.</desc>
+  </programme>
+  <programme start="20260615100000 +0000" stop="20260615103000 +0000" channel="amc.us">
+    <title>Freedom to Leave the House! Inogen Portable Oxygen</title>
+    <desc>Regain independence and enjoy greater mobility with the compact design and long-lasting battery of portable oxygen.</desc>
+  </programme>
+  <programme start="20260615103000 +0000" stop="20260615110000 +0000" channel="amc.us">
+    <title>Rateescape: Stop Overpaying for Cellular</title>
+    <desc>Cut up to half the cost of your monthly cell phone bill; same towers, same coverage, but a lot less money; it sounds great but is it too good to be true?; join myth-busting legend Kari Byron as she takes on Big Wireless to save you money.</desc>
+  </programme>
+  <programme start="20260615110000 +0000" stop="20260615113000 +0000" channel="amc.us">
+    <title>Nursing Home Nightmares 2026</title>
+    <desc>This is a must-see program if you have a loved one in a nursing home; go behind the scenes and find out what really goes on when you're not there, and all that's wrong with today's nursing homes; you will learn exactly what you can do if you.</desc>
+  </programme>
+  <programme start="20260615113000 +0000" stop="20260615120000 +0000" channel="amc.us">
+    <title>Natural Blood Pressure Management</title>
+    <desc>Cardiologist Dr. Ernst von Schwarz, M.D. shows how to manage your blood pressure naturally and help protect your heart for life with My Best Heart.</desc>
+  </programme>
+  <programme start="20260615120000 +0000" stop="20260615123000 +0000" channel="amc.us">
+    <title>An Aetna Medicare Advantage plan might be right for you</title>
+    <desc>When it comes to Medicare coverage, there are a lot of options. Learn about your choices so that you can select the coverage that's right for you. Call to speak with a licensed Aetna agent today.</desc>
+  </programme>
+  <programme start="20260615123000 +0000" stop="20260615130000 +0000" channel="amc.us">
+    <title>Overwhelmed with IRS Debt? Keys to Resolving Tax Debt</title>
+    <desc>See how one company is changing people's lives by helping them put their tax problems to rest.</desc>
+  </programme>
+  <programme start="20260615130000 +0000" stop="20260615150000 +0000" channel="amc.us">
+    <title>Jurassic Park III</title>
+    <desc>Dinosaur expert Dr. Alan Grant and a search party become trapped on an island of prehistoric predators. Can they escape alive with Dr. Alan Grant leading the party?</desc>
+  </programme>
+  <programme start="20260615150000 +0000" stop="20260615180000 +0000" channel="amc.us">
+    <title>Jurassic Park</title>
+    <desc>An entrepreneur invites scientists (Sam Neill, Laura Dern), a mathematics theorist (Jeff Goldblum) and others to his jungle theme-park featuring dinosaurs regenerated from DNA.</desc>
+  </programme>
+  <programme start="20260615180000 +0000" stop="20260615210000 +0000" channel="amc.us">
+    <title>The Lost World: Jurassic Park</title>
+    <desc>Four years after </desc>
+  </programme>
+  <programme start="20260615210000 +0000" stop="20260616000000 +0000" channel="amc.us">
+    <title>Goodfellas</title>
+    <desc>Henry Hill, a poor Irish-Italian growing up in the 1950s New York City, rises through the ranks of his neighborhood's organized crime branch; he ends up in the FBI's witness protection program after testifying against his former partners.</desc>
+  </programme>
+  <programme start="20260616000000 +0000" stop="20260616030000 +0000" channel="amc.us">
+    <title>Man on Fire</title>
+    <desc>In Mexico City, a former assassin swears vengeance on those who committed an unspeakable act against the family he was hired to protect.</desc>
+  </programme>
+  <programme start="20260616030000 +0000" stop="20260616050000 +0000" channel="amc.us">
+    <title>Unstoppable</title>
+    <desc>When an unmanned locomotive roars out of control, two railroad employees (Denzel Washington, Chris Pine) must find a way to bring it to a halt before it crashes and spills its toxic cargo.</desc>
+  </programme>
+  <programme start="20260616050000 +0000" stop="20260616060500 +0000" channel="amc.us">
+    <title>Toledo</title>
+    <desc>Lestat revisits his origins in Auvergne, explores Toledo with a recent reconnection, and deals with the fallout from Detroit, facing both band tensions and a disgruntled hotel owner.</desc>
+  </programme>
+  <programme start="20260616060500 +0000" stop="20260616071000 +0000" channel="amc.us">
+    <title>Lasher</title>
+    <desc>Rowan Mayfair is determined to understand what Lasher has become; Sip is hell-bent on capturing him.</desc>
+  </programme>
+  <programme start="20260616071000 +0000" stop="20260616081800 +0000" channel="amc.us">
+    <title>Ten of Swords</title>
+    <desc>Rowan must find Lasher before more people are hurt; Sip finds an ally in an angry Mayfair cousin.</desc>
+  </programme>
+  <programme start="20260616081800 +0000" stop="20260616091800 +0000" channel="amc.us">
+    <title>Cover the Mirrors</title>
+    <desc>Rowan desperately partners with Cortland to try to stop Lasher; Moira assists Sip in capturing him.</desc>
+  </programme>
+  <programme start="20260616091800 +0000" stop="20260616094600 +0000" channel="amc.us">
+    <title>Idiots Deluxe</title>
+    <desc>Hunters mistake rug-wrapped Moe for a bear.</desc>
+  </programme>
+  <programme start="20260616094600 +0000" stop="20260616095500 +0000" channel="amc.us">
+    <title>Woman Haters</title>
+    <desc>The boys, as three traveling salesmen, vow never to wed, but unbeknownst to Moe and Curly, Larry has recently been married.</desc>
+  </programme>
+  <programme start="20260616095500 +0000" stop="20260616100000 +0000" channel="amc.us">
+    <title>Punchy Cowpunchers</title>
+    <desc>The cavalry hires the boys to capture outlaws.</desc>
+  </programme>
   <channel id="retroplex.us">
     <display-name>USA RETROPLEX EAST</display-name>
   </channel>
@@ -5860,4 +6084,228 @@
   <channel id="amc.us">
     <display-name>USA AMC</display-name>
   </channel>
+  <programme start="20260612100000 +0000" stop="20260612103000 +0000" channel="amc.us">
+    <title>Protect Your Family From Identity Theft</title>
+    <desc>Every 5 seconds there's a victim of identity theft; LifeLock helps alert you, restore your identity, and reimburse lost funds—leading the way in protecting families every day.</desc>
+  </programme>
+  <programme start="20260612103000 +0000" stop="20260612110000 +0000" channel="amc.us">
+    <title>USA 250 Gold Rarity</title>
+    <desc>Celebrate the 250th Anniversary of American Freedom with this Gold 1776-2026 American Gold Eagle graded PF70UCAM; encapsulated in a 1 of 250 40th Anniversary holder with the First Day of Issue designation, this is a once in a lifetime American coin!</desc>
+  </programme>
+  <programme start="20260612110000 +0000" stop="20260612113000 +0000" channel="amc.us">
+    <title>Car Repair Secrets!</title>
+    <desc>Save thousands on car repairs.</desc>
+  </programme>
+  <programme start="20260612113000 +0000" stop="20260612120000 +0000" channel="amc.us">
+    <title>Freedom to Leave the House! Inogen Portable Oxygen</title>
+    <desc>Regain independence and enjoy greater mobility with the compact design and long-lasting battery of portable oxygen.</desc>
+  </programme>
+  <programme start="20260612120000 +0000" stop="20260612123000 +0000" channel="amc.us">
+    <title>Overwhelmed with IRS Debt? Keys to Resolving Tax Debt</title>
+    <desc>See how one company is changing people's lives by helping them put their tax problems to rest.</desc>
+  </programme>
+  <programme start="20260612123000 +0000" stop="20260612130000 +0000" channel="amc.us">
+    <title>Natural Blood Pressure Management</title>
+    <desc>Cardiologist Dr. Ernst von Schwarz, M.D. shows how to manage your blood pressure naturally and help protect your heart for life with My Best Heart.</desc>
+  </programme>
+  <programme start="20260612130000 +0000" stop="20260612150000 +0000" channel="amc.us">
+    <title>The Great Outdoors</title>
+    <desc>A Chicago man (John Candy) and his family go camping with his obnoxious brother-in-law (Dan Aykroyd) and his family.</desc>
+  </programme>
+  <programme start="20260612150000 +0000" stop="20260612180000 +0000" channel="amc.us">
+    <title>Captain Phillips</title>
+    <desc>In 2009, Somali pirates storm a U.S. container ship and hold Capt. Richard Phillips and his crew captive.</desc>
+  </programme>
+  <programme start="20260612180000 +0000" stop="20260612210000 +0000" channel="amc.us">
+    <title>Independence Day</title>
+    <desc>When alien invaders lay waste to planet Earth, it's up to a select group of survivors to make a last-ditch stand. Fighting superior technology, mankind's best weapon is the will to survive.</desc>
+  </programme>
+  <programme start="20260612210000 +0000" stop="20260613000000 +0000" channel="amc.us">
+    <title>True Lies</title>
+    <desc>A Washington wife (Jamie Lee Curtis) discovers her computer-salesman husband (Arnold Schwarzenegger) is a spy out to stop nuclear terrorists.</desc>
+  </programme>
+  <programme start="20260613000000 +0000" stop="20260613030000 +0000" channel="amc.us">
+    <title>Knives Out</title>
+    <desc>The circumstances surrounding the death of crime novelist Harlan Thrombey are mysterious, but there's one thing that renowned Detective Benoit Blanc knows for sure -- everyone in the wildly dysfunctional Thrombey family is a suspect.</desc>
+  </programme>
+  <programme start="20260613030000 +0000" stop="20260613040600 +0000" channel="amc.us">
+    <title>The Beginning</title>
+    <desc>While facing declining sales at a book convention, bestselling mystery author Allie Chandler investigates the suspicious death of a close friend, only to clash with new police detective Jack Kerrigan and ambitious young podcaster Andi Walker.</desc>
+  </programme>
+  <programme start="20260613040600 +0000" stop="20260613064900 +0000" channel="amc.us">
+    <title>Just Go With It</title>
+    <desc>A plastic surgeon (Adam Sandler) enlists the aid of his assistant (Jennifer Aniston) and her children to help him win the heart of a beautiful woman.</desc>
+  </programme>
+  <programme start="20260613064900 +0000" stop="20260613090200 +0000" channel="amc.us">
+    <title>50 First Dates</title>
+    <desc>Henry Roth is a man afraid of commitment up until he meets the beautiful Lucy. They hit it off and Henry think he's finally found the girl of his dreams, until he discovers she has short-term memory loss and forgets him the next day.</desc>
+  </programme>
+  <programme start="20260613090200 +0000" stop="20260613113000 +0000" channel="amc.us">
+    <title>The Bounty Hunter</title>
+    <desc>Originally hired to track down his bail-jumping ex-wife (Jennifer Aniston), a bounty hunter (Gerard Butler) soon finds himself on the run for his life.</desc>
+  </programme>
+  <programme start="20260613113000 +0000" stop="20260613140000 +0000" channel="amc.us">
+    <title>Fool's Gold</title>
+    <desc>A treasure hunter (Matthew McConaughey) drags his estranged wife (Kate Hudson) and her boss (Donald Sutherland) on a quest to find 40 chests of lost Spanish gold.</desc>
+  </programme>
+  <programme start="20260613140000 +0000" stop="20260613161500 +0000" channel="amc.us">
+    <title>50 First Dates</title>
+    <desc>Henry Roth is a man afraid of commitment up until he meets the beautiful Lucy. They hit it off and Henry think he's finally found the girl of his dreams, until he discovers she has short-term memory loss and forgets him the next day.</desc>
+  </programme>
+  <programme start="20260613161500 +0000" stop="20260613190000 +0000" channel="amc.us">
+    <title>Just Go With It</title>
+    <desc>A plastic surgeon (Adam Sandler) enlists the aid of his assistant (Jennifer Aniston) and her children to help him win the heart of a beautiful woman.</desc>
+  </programme>
+  <programme start="20260613190000 +0000" stop="20260613220000 +0000" channel="amc.us">
+    <title>Knives Out</title>
+    <desc>The circumstances surrounding the death of crime novelist Harlan Thrombey are mysterious, but there's one thing that renowned Detective Benoit Blanc knows for sure -- everyone in the wildly dysfunctional Thrombey family is a suspect.</desc>
+  </programme>
+  <programme start="20260613220000 +0000" stop="20260614010000 +0000" channel="amc.us">
+    <title>National Treasure</title>
+    <desc>An adventurer (Nicolas Cage) must steal the Declaration of Independence and use its hidden map to find a legendary fortune.</desc>
+  </programme>
+  <programme start="20260614010000 +0000" stop="20260614040000 +0000" channel="amc.us">
+    <title>National Treasure: Book of Secrets</title>
+    <desc>A page from the diary of John Wilkes Booth implicates Ben Gates' great-great-grandfather as a major conspirator in the assassination of President Lincoln.</desc>
+  </programme>
+  <programme start="20260614040000 +0000" stop="20260614060000 +0000" channel="amc.us">
+    <title>Beetlejuice</title>
+    <desc>A couple returns from the dead to find that they are back in their beloved home, as ghosts. They are horrified when the house is sold to a pretentious couple.</desc>
+  </programme>
+  <programme start="20260614060000 +0000" stop="20260614080000 +0000" channel="amc.us">
+    <title>National Lampoon's Vacation</title>
+    <desc>Clark Griswold and his wife, Ellen, are driving from Illinois to a California amusement park. As Clark increasingly fixates on a beautiful woman driving a sports car, the Griswolds deal with car problems and the death of a family member.</desc>
+  </programme>
+  <programme start="20260614080000 +0000" stop="20260614100000 +0000" channel="amc.us">
+    <title>Vegas Vacation</title>
+    <desc>The Griswolds are off on a family outing to Las Vegas, where they each have their own misadventures. Young Rusty is enthusiastically playing dice, and his sister, Audrey, winds up in seedy nightclubs. Can the family reunite and stay out of trouble?</desc>
+  </programme>
+  <programme start="20260614100000 +0000" stop="20260614123000 +0000" channel="amc.us">
+    <title>Ghostbusters II</title>
+    <desc>Now the parapsychologists (Bill Murray, Dan Aykroyd) are trying to rid New York of stress-related pink slime.</desc>
+  </programme>
+  <programme start="20260614123000 +0000" stop="20260614150000 +0000" channel="amc.us">
+    <title>Ghostbusters</title>
+    <desc>Armed with their proton packs, four paranormal investigators battle mischievous ghouls, slimy specters, and full-torso, free-roaming apparitions across New York.</desc>
+  </programme>
+  <programme start="20260614150000 +0000" stop="20260614170000 +0000" channel="amc.us">
+    <title>Beetlejuice</title>
+    <desc>A couple returns from the dead to find that they are back in their beloved home, as ghosts. They are horrified when the house is sold to a pretentious couple.</desc>
+  </programme>
+  <programme start="20260614170000 +0000" stop="20260614190000 +0000" channel="amc.us">
+    <title>Jurassic Park III</title>
+    <desc>Dinosaur expert Dr. Alan Grant and a search party become trapped on an island of prehistoric predators. Can they escape alive with Dr. Alan Grant leading the party?</desc>
+  </programme>
+  <programme start="20260614190000 +0000" stop="20260614220000 +0000" channel="amc.us">
+    <title>Jurassic Park</title>
+    <desc>An entrepreneur invites scientists (Sam Neill, Laura Dern), a mathematics theorist (Jeff Goldblum) and others to his jungle theme-park featuring dinosaurs regenerated from DNA.</desc>
+  </programme>
+  <programme start="20260614220000 +0000" stop="20260615010000 +0000" channel="amc.us">
+    <title>The Lost World: Jurassic Park</title>
+    <desc>Four years after </desc>
+  </programme>
+  <programme start="20260615010000 +0000" stop="20260615020500 +0000" channel="amc.us">
+    <title>Toledo</title>
+    <desc>Lestat revisits his origins in Auvergne, explores Toledo with a recent reconnection, and deals with the fallout from Detroit, facing both band tensions and a disgruntled hotel owner.</desc>
+  </programme>
+  <programme start="20260615020500 +0000" stop="20260615031000 +0000" channel="amc.us">
+    <title>Toledo</title>
+    <desc>Lestat revisits his origins in Auvergne, explores Toledo with a recent reconnection, and deals with the fallout from Detroit, facing both band tensions and a disgruntled hotel owner.</desc>
+  </programme>
+  <programme start="20260615031000 +0000" stop="20260615061200 +0000" channel="amc.us">
+    <title>Cast Away</title>
+    <desc>A corporate troubleshooter survives a plane crash to spend five years seeking out an existence on a deserted island before returning to civilization with an altered view of his old life and values.</desc>
+  </programme>
+  <programme start="20260615061200 +0000" stop="20260615071700 +0000" channel="amc.us">
+    <title>Toledo</title>
+    <desc>Lestat revisits his origins in Auvergne, explores Toledo with a recent reconnection, and deals with the fallout from Detroit, facing both band tensions and a disgruntled hotel owner.</desc>
+  </programme>
+  <programme start="20260615071700 +0000" stop="20260615094700 +0000" channel="amc.us">
+    <title>The Last Stand</title>
+    <desc>A sheriff must take matters into his own hands when a notorious drug lord escapes from FBI custody and comes speeding toward a showdown in the lawman's quiet border town.</desc>
+  </programme>
+  <programme start="20260615094700 +0000" stop="20260615095500 +0000" channel="amc.us">
+    <title>Pardon My Scotch</title>
+    <desc>The Stooges are running the local drugstore, mixing up a potion that a desperate businessman decides to sell as scotch.</desc>
+  </programme>
+  <programme start="20260615095500 +0000" stop="20260615100000 +0000" channel="amc.us">
+    <title>Pop Goes the Easel</title>
+    <desc>The Stooges are down and out; with a cop chasing them, they flee into an artists' studio where they are mistaken for students.</desc>
+  </programme>
+  <programme start="20260615100000 +0000" stop="20260615103000 +0000" channel="amc.us">
+    <title>Freedom to Leave the House! Inogen Portable Oxygen</title>
+    <desc>Regain independence and enjoy greater mobility with the compact design and long-lasting battery of portable oxygen.</desc>
+  </programme>
+  <programme start="20260615103000 +0000" stop="20260615110000 +0000" channel="amc.us">
+    <title>Rateescape: Stop Overpaying for Cellular</title>
+    <desc>Cut up to half the cost of your monthly cell phone bill; same towers, same coverage, but a lot less money; it sounds great but is it too good to be true?; join myth-busting legend Kari Byron as she takes on Big Wireless to save you money.</desc>
+  </programme>
+  <programme start="20260615110000 +0000" stop="20260615113000 +0000" channel="amc.us">
+    <title>Nursing Home Nightmares 2026</title>
+    <desc>This is a must-see program if you have a loved one in a nursing home; go behind the scenes and find out what really goes on when you're not there, and all that's wrong with today's nursing homes; you will learn exactly what you can do if you.</desc>
+  </programme>
+  <programme start="20260615113000 +0000" stop="20260615120000 +0000" channel="amc.us">
+    <title>Natural Blood Pressure Management</title>
+    <desc>Cardiologist Dr. Ernst von Schwarz, M.D. shows how to manage your blood pressure naturally and help protect your heart for life with My Best Heart.</desc>
+  </programme>
+  <programme start="20260615120000 +0000" stop="20260615123000 +0000" channel="amc.us">
+    <title>An Aetna Medicare Advantage plan might be right for you</title>
+    <desc>When it comes to Medicare coverage, there are a lot of options. Learn about your choices so that you can select the coverage that's right for you. Call to speak with a licensed Aetna agent today.</desc>
+  </programme>
+  <programme start="20260615123000 +0000" stop="20260615130000 +0000" channel="amc.us">
+    <title>Overwhelmed with IRS Debt? Keys to Resolving Tax Debt</title>
+    <desc>See how one company is changing people's lives by helping them put their tax problems to rest.</desc>
+  </programme>
+  <programme start="20260615130000 +0000" stop="20260615150000 +0000" channel="amc.us">
+    <title>Jurassic Park III</title>
+    <desc>Dinosaur expert Dr. Alan Grant and a search party become trapped on an island of prehistoric predators. Can they escape alive with Dr. Alan Grant leading the party?</desc>
+  </programme>
+  <programme start="20260615150000 +0000" stop="20260615180000 +0000" channel="amc.us">
+    <title>Jurassic Park</title>
+    <desc>An entrepreneur invites scientists (Sam Neill, Laura Dern), a mathematics theorist (Jeff Goldblum) and others to his jungle theme-park featuring dinosaurs regenerated from DNA.</desc>
+  </programme>
+  <programme start="20260615180000 +0000" stop="20260615210000 +0000" channel="amc.us">
+    <title>The Lost World: Jurassic Park</title>
+    <desc>Four years after </desc>
+  </programme>
+  <programme start="20260615210000 +0000" stop="20260616000000 +0000" channel="amc.us">
+    <title>Goodfellas</title>
+    <desc>Henry Hill, a poor Irish-Italian growing up in the 1950s New York City, rises through the ranks of his neighborhood's organized crime branch; he ends up in the FBI's witness protection program after testifying against his former partners.</desc>
+  </programme>
+  <programme start="20260616000000 +0000" stop="20260616030000 +0000" channel="amc.us">
+    <title>Man on Fire</title>
+    <desc>In Mexico City, a former assassin swears vengeance on those who committed an unspeakable act against the family he was hired to protect.</desc>
+  </programme>
+  <programme start="20260616030000 +0000" stop="20260616050000 +0000" channel="amc.us">
+    <title>Unstoppable</title>
+    <desc>When an unmanned locomotive roars out of control, two railroad employees (Denzel Washington, Chris Pine) must find a way to bring it to a halt before it crashes and spills its toxic cargo.</desc>
+  </programme>
+  <programme start="20260616050000 +0000" stop="20260616060500 +0000" channel="amc.us">
+    <title>Toledo</title>
+    <desc>Lestat revisits his origins in Auvergne, explores Toledo with a recent reconnection, and deals with the fallout from Detroit, facing both band tensions and a disgruntled hotel owner.</desc>
+  </programme>
+  <programme start="20260616060500 +0000" stop="20260616071000 +0000" channel="amc.us">
+    <title>Lasher</title>
+    <desc>Rowan Mayfair is determined to understand what Lasher has become; Sip is hell-bent on capturing him.</desc>
+  </programme>
+  <programme start="20260616071000 +0000" stop="20260616081800 +0000" channel="amc.us">
+    <title>Ten of Swords</title>
+    <desc>Rowan must find Lasher before more people are hurt; Sip finds an ally in an angry Mayfair cousin.</desc>
+  </programme>
+  <programme start="20260616081800 +0000" stop="20260616091800 +0000" channel="amc.us">
+    <title>Cover the Mirrors</title>
+    <desc>Rowan desperately partners with Cortland to try to stop Lasher; Moira assists Sip in capturing him.</desc>
+  </programme>
+  <programme start="20260616091800 +0000" stop="20260616094600 +0000" channel="amc.us">
+    <title>Idiots Deluxe</title>
+    <desc>Hunters mistake rug-wrapped Moe for a bear.</desc>
+  </programme>
+  <programme start="20260616094600 +0000" stop="20260616095500 +0000" channel="amc.us">
+    <title>Woman Haters</title>
+    <desc>The boys, as three traveling salesmen, vow never to wed, but unbeknownst to Moe and Curly, Larry has recently been married.</desc>
+  </programme>
+  <programme start="20260616095500 +0000" stop="20260616100000 +0000" channel="amc.us">
+    <title>Punchy Cowpunchers</title>
+    <desc>The cavalry hires the boys to capture outlaws.</desc>
+  </programme>
 </tv>
